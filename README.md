@@ -12,10 +12,10 @@
     <h1>About me</h1>
     <div>
         <h2>
-            <p> My name is Natthamate Phantajaruphong. My Student ID is xxxxxxxx. My friends calls me PP. I'm 21 years old now and currently study in
-                third year at Faculty of Engineering majored in Mechanical Engineering. The reasons I choose to study
-                mechanical engineering is I like to learn about the machinary like, how they works or how do we create or
-                design the machine. Plus I want to work in an automotive or aviation field so, mechanical engineering really
+            <p> My name is Kittiphoom Piswai. My Student ID is 622115004. My friends calls me Phoom. I'm 19 years old now and currently study in
+                first year at Collage of art, media and technology in Software Engineering. The reasons I choose to study
+                software engineering is I like to learn about the software programming like, how they works or how do we create or
+                design the code and web UI. Plus I want to work in an office so, software engineering really
                 suits me.
         </h2>
         </p>
