@@ -19,7 +19,7 @@
                 suits me.
         </h2>
         </p>
-        <img src = me.png>
+        <img src = me1.jpg>
         
        
     </div>
